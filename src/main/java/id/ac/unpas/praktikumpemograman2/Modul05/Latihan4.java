@@ -4,7 +4,7 @@
  */
 package id.ac.unpas.praktikumpemograman2.Modul05;
 import javax.swing.*;
-import java.awt.BorderLayout;
+import java.awt.*;
 
 /**
  *
